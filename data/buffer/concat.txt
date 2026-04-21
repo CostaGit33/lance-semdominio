@@ -1,0 +1,6 @@
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142618.mjpeg'
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142623.mjpeg'
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142628.mjpeg'
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142636.mjpeg'
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142638.mjpeg'
+file 'c:/lance-sem-dominio/data/buffer/seg_20260421_142644.mjpeg'

@@ -1,0 +1,26 @@
+{
+  "client_name": "arena-jaguar",
+
+  "camera_name": "Integrated Camera",
+
+  "segment_duration": 5,
+  "buffer_segments": 8,
+
+  "clip_duration": 30,
+  "delay_seconds": 3,
+
+  "server_port": 8080,
+
+  "video": {
+    "codec": "libx264",
+    "preset": "fast",
+    "crf": 23,
+    "resolution": "1280x720",
+    "fps": 30
+  },
+
+  "storage": {
+    "max_clips": 100,
+    "auto_delete": true
+  }
+}
