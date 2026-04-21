@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 data/buffer/*
 data/clips/*
+*.mp4
+*.mjpeg
